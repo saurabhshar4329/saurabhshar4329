@@ -106,9 +106,9 @@ A web application that converts long URLs into short and manageable links.
 
 ## 📫 Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/saurabh-b6b988332](http://www.linkedin.com/in/saurabh-b6b988332)
+* LinkedIn: [www.linkedin.com/in/saurabh41](https://www.linkedin.com/in/saurabh41/)
 * GitHub: github.com/saurabhshar4329
-* Instagram: @saurabh_shamra_oo52
+* Instagram: [_saurabh.s1](https://www.instagram.com/_saurabh.s1/)
 * Email: [sharmasaurabh4169@gmail.com](mailto:sharmasaurabh4169@gmail.com)
 
 ---
