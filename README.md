@@ -1,22 +1,374 @@
-# 💫 About Me:
-# Hello, I'm Saurabh Sharma 👋<br><br>🎓 **B.Tech (Computer Science) – 3rd Year**  <br>📍 **Galgotias University**<br><br>---<br><br>## About Me<br><br>I am a third-year B.Tech Computer Science student at Galgotias University with a strong interest in software development. I am currently building a solid foundation in **HTML, CSS, Java, Data Structures & Algorithms (DSA), and SQL**. I am actively seeking **technical internship opportunities** and **entry-level full-time roles** where I can apply my skills, learn from real-world challenges, and grow as a developer.<br><br>---<br><br>## Technical Skills<br><br>- **Programming Languages:** Java, SQL  <br>- **Web Technologies:** HTML, CSS  <br>- **Core Concepts:** Data Structures and Algorithms  <br>- **Tools & Platforms:** Git, GitHub, Visual Studio Code  <br><br>---<br><br>## Ask Me About<br><br>- Java programming and object-oriented concepts  <br>- Data Structures and Algorithms  <br>- Frontend basics using HTML and CSS  <br>- Writing efficient SQL queries  <br>- Getting started with programming  <br><br>---<br><br>## Career Objectives<br><br>- Secure a software development internship  <br>- Strengthen problem-solving and backend development skills  <br>- Begin a successful career as a software engineer in a reputed organization  <br><br>---<br><br>## Fun Fact<br><br>- I find solving coding problems more engaging than watching movies.<br><br>---<br><br>⭐ *Thank you for visiting my profile. Feel free to explore my repositories.*<br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Saurabh Sharma | Portfolio</title>
 
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saurabh_shamra_oo52) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-b6b988332) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@sha4169) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmasaurabh4169@gmail.com) 
+<style>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saurabhshar4329&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saurabhshar4329&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhshar4329&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
 
----
-[![](https://visitcount.itsvg.in/api?id=saurabhshar4329&icon=0&color=0)](https://visitcount.itsvg.in)
+body{
+    background:#0f172a;
+    color:white;
+    line-height:1.6;
+}
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Enjoying my work? You can support me with a small donation!  ) 
+.container{
+    width:90%;
+    max-width:1200px;
+    margin:auto;
+}
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+header{
+    background:#1e293b;
+    padding:20px 0;
+    position:sticky;
+    top:0;
+    z-index:1000;
+}
+
+header .container{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.logo{
+    color:#38bdf8;
+    font-size:28px;
+}
+
+nav ul{
+    display:flex;
+    list-style:none;
+    gap:25px;
+}
+
+nav ul li a{
+    color:white;
+    text-decoration:none;
+    transition:.3s;
+}
+
+nav ul li a:hover{
+    color:#38bdf8;
+}
+
+.hero{
+    height:90vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+}
+
+.hero h1{
+    font-size:3.5rem;
+}
+
+.hero span{
+    color:#38bdf8;
+}
+
+.hero p{
+    margin:15px 0;
+    color:#cbd5e1;
+    font-size:1.1rem;
+}
+
+.btn{
+    display:inline-block;
+    background:#38bdf8;
+    color:#000;
+    padding:12px 28px;
+    text-decoration:none;
+    border-radius:8px;
+    font-weight:600;
+    margin-top:10px;
+}
+
+.btn:hover{
+    transform:scale(1.05);
+}
+
+section{
+    padding:80px 0;
+}
+
+.section-title{
+    text-align:center;
+    font-size:2.3rem;
+    color:#38bdf8;
+    margin-bottom:40px;
+}
+
+.about{
+    text-align:center;
+    max-width:800px;
+    margin:auto;
+}
+
+.about p{
+    color:#cbd5e1;
+    margin-bottom:20px;
+}
+
+.skills-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:20px;
+}
+
+.skill-card{
+    background:#1e293b;
+    padding:25px;
+    border-radius:12px;
+    text-align:center;
+    transition:.3s;
+}
+
+.skill-card:hover{
+    transform:translateY(-8px);
+}
+
+.skill-card h3{
+    color:#38bdf8;
+    margin-bottom:10px;
+}
+
+.projects{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+    gap:20px;
+}
+
+.project-card{
+    background:#1e293b;
+    padding:25px;
+    border-radius:12px;
+    transition:.3s;
+}
+
+.project-card:hover{
+    transform:translateY(-8px);
+}
+
+.project-card h3{
+    color:#38bdf8;
+    margin-bottom:10px;
+}
+
+.contact{
+    text-align:center;
+}
+
+.contact p{
+    margin:15px 0;
+}
+
+.contact a{
+    color:#38bdf8;
+    text-decoration:none;
+}
+
+footer{
+    background:#1e293b;
+    text-align:center;
+    padding:20px;
+    margin-top:40px;
+}
+
+@media(max-width:768px){
+
+header .container{
+    flex-direction:column;
+}
+
+nav ul{
+    margin-top:15px;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+.hero h1{
+    font-size:2.2rem;
+}
+
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+    <div class="container">
+        <h2 class="logo">Saurabh Sharma</h2>
+
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<section class="hero">
+    <div>
+        <h1>Hello, I'm <span>Saurabh Sharma</span></h1>
+
+        <p>
+            B.Tech Computer Science Student <br>
+            Aspiring Software Engineer
+        </p>
+
+        <a href="#contact" class="btn">Connect With Me</a>
+    </div>
+</section>
+
+<section id="about">
+    <div class="container">
+        <h2 class="section-title">About Me</h2>
+
+        <div class="about">
+            <p>
+                I am a Third-Year B.Tech Computer Science student at
+                Galgotias University with a strong interest in Software
+                Development and Problem Solving.
+            </p>
+
+            <p>
+                Currently learning Java, DSA, SQL, HTML, CSS and building
+                real-world projects to strengthen my development skills.
+            </p>
+        </div>
+    </div>
+</section>
+
+<section id="skills">
+    <div class="container">
+        <h2 class="section-title">Technical Skills</h2>
+
+        <div class="skills-grid">
+
+            <div class="skill-card">
+                <h3>Java</h3>
+                <p>OOP, Collections, JDBC</p>
+            </div>
+
+            <div class="skill-card">
+                <h3>HTML & CSS</h3>
+                <p>Responsive Web Design</p>
+            </div>
+
+            <div class="skill-card">
+                <h3>SQL</h3>
+                <p>Database Management</p>
+            </div>
+
+            <div class="skill-card">
+                <h3>DSA</h3>
+                <p>Problem Solving & Algorithms</p>
+            </div>
+
+            <div class="skill-card">
+                <h3>Git & GitHub</h3>
+                <p>Version Control</p>
+            </div>
+
+            <div class="skill-card">
+                <h3>VS Code</h3>
+                <p>Development Environment</p>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section id="projects">
+    <div class="container">
+
+        <h2 class="section-title">Projects</h2>
+
+        <div class="projects">
+
+            <div class="project-card">
+                <h3>Expense Tracker</h3>
+                <p>
+                    Manage and monitor daily expenses using a
+                    user-friendly interface.
+                </p>
+            </div>
+
+            <div class="project-card">
+                <h3>Weather Dashboard</h3>
+                <p>
+                    Displays live weather information using APIs.
+                </p>
+            </div>
+
+            <div class="project-card">
+                <h3>URL Shortener</h3>
+                <p>
+                    Java-based web application for shortening long URLs.
+                </p>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+<section id="contact">
+    <div class="container">
+
+        <h2 class="section-title">Contact Me</h2>
+
+        <div class="contact">
+
+            <p>📧 Email: sharmasaurabh4169@gmail.com</p>
+
+            <p>
+                💼 LinkedIn:
+                <a href="https://linkedin.com" target="https://l1nk.dev/8l7wq4c">
+                    View Profile
+                </a>
+            </p>
+
+            <p>
+                🐱 GitHub:
+                <a href="https://github.com/saurabhshar4329" target="_blank">
+                    github.com/saurabhshar4329
+                </a>
+            </p>
+
+            <p>
+                📸 Instagram:
+                <a href="https://instagram.com" target="https://l1nk.dev/it6cajo">
+                    @saurabh_shamra_oo52
+                </a>
+            </p>
+
+        </div>
+
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Saurabh Sharma | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
